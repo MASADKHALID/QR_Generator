@@ -17,6 +17,7 @@ I'm excited to share a new project I've been working on: a QR Code Generator App
   Click the button to generate the QR code and choose where to save it.
 **Check and Replace:** 
   If a file with the chosen name already exists, it will be replaced with the new QR code image.
+  
 **Technologies Used:**
 
 **Python:** 
