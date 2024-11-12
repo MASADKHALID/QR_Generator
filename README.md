@@ -53,7 +53,8 @@ I'm excited to share a new project I've been working on: a QR Code Generator App
 
   # download link ===> https://www.mediafire.com/folder/zt39hvpr4bejf/qrgenerator
 
-  ![Uploading pic.PNG…]()
+![pic](https://github.com/user-attachments/assets/72760dff-5b73-43d6-8de8-2027b9872468)
+
 
 
   
