@@ -22,7 +22,7 @@ class qrGenerator():
         self.filemenu.add_command(label="New")
         self.filemenu.add_command(label="Open")
         self.filemenu.add_command(label="Save")
-        self.filemenu.add_command(label="Exit",command=quit) 
+        self.filemenu.add_command(label="Exit") 
         self.menubar.add_cascade(label="File", menu=self.filemenu)
         # menubar problem
         self.helpmenu = tk.Menu(self.menubar, tearoff=0)
@@ -90,8 +90,6 @@ root.title("QR-Generator")
 root.geometry("400x500")        
 #object of class qr generatoe
 obj1=qrGenerator(root)
-#object callmethod
-#obj1.getQrCode()
 #window close
 root.mainloop()
         
